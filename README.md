@@ -79,10 +79,13 @@ Before we begin, here are the two links we’ll need for this process. Open both
 - **Take Ownership:** Click `Assigned to:` and assign the ticket to yourself.![image](https://github.com/user-attachments/assets/522f2126-eb85-46b0-a006-91381852d00e)
 
 - **Troubleshooting:**
-  - Hypothesis: A recent update to the online banking portal caused the issue.
+  - Hypothesis: A recent update to the online banking portal could have caused the issue.
   - Add a **comment** to the Ticket Thread documenting your investigation.![image](https://github.com/user-attachments/assets/58978be1-a38e-4535-8b7f-be06944fc74a)
+ 
+    **Some time later...**
 
-  - After **reverting the system update** and notifying the vendor, update the thread again.![image](https://github.com/user-attachments/assets/7036ce60-cf57-4801-983e-88cb776633f6)
+  - After **reverting the system update** the team lets you know the Online Banking portal is back up and running!
+  - Time to **send an email notifying the vendor**, and update the thread again.![image](https://github.com/user-attachments/assets/7036ce60-cf57-4801-983e-88cb776633f6)
 
 ---
 
